@@ -11,7 +11,8 @@ System.out.print("Enter a number: ");
 //reading a number from the user  
 num = sc.nextInt();  
 //checks the number is greater than 0 or not  
-if(num>0)  
+
+  if(num>0)  
 {  
 System.out.println("The number is positive.");  
 }  
